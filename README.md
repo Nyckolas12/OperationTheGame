@@ -55,7 +55,7 @@ Unity 6.3
 
 Unity Input System
 
-Desktop platform (Windows / macOS / Linux)
+Desktop platform (Windows)
 
 Keyboard and mouse
 
