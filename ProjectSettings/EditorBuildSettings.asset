@@ -6,8 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Alex's/Scenes/TitleScreen.unity
+    guid: ced75a16473835643af5ce7f3b49df60
+  - enabled: 1
+    path: Assets/Alex's/Scenes/Settings.unity
+    guid: 7ff0f43b96c7ee241b0c949e8da5d571
+  - enabled: 1
+    path: Assets/Nyck's/TestingScene.unity
+    guid: 4499ac295449e6f4abccd4e22f4e0f85
+  - enabled: 1
+    path: Assets/Alex's/Scenes/GameWon.unity
+    guid: fe02ae639534e984f84f9a8e0ace5131
+  - enabled: 1
+    path: Assets/Alex's/Scenes/GameOver.unity
+    guid: 505802dffef1e1c45be97a49f62d1f33
   m_configObjects:
     com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
